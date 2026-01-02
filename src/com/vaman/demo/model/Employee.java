@@ -1,0 +1,5 @@
+package com.vaman.demo.model;
+
+public class Employee {
+
+}
